@@ -1,0 +1,270 @@
+*{margin:0px; padding:0px;}
+.service_block{
+    background-image: url(banner1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 700px;
+    overflow: hidden;
+}
+.service{
+    width: 500px;
+    height: 700px;
+    text-align: center;
+    margin: auto;
+    float: right;
+    margin-right: 200px;
+    margin-top: 200px;
+    overflow: hidden;
+}
+.service h1{
+    font-size: 60px;
+    font-family: arial black;
+    text-align: right;
+    line-height: 60px;
+    margin-bottom: 30px;
+}
+.service p{
+    font-size: 20px;
+    text-align: right;
+    margin-bottom: 30px;
+    
+
+}
+.contact_button{
+    padding: 20px 20px;
+    background: orangered;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    font-family: arial black;
+    float: right;
+
+}
+.allDiv{
+    width: 1170px;
+    margin: auto;
+    margin-top: 150px;
+    overflow: hidden;
+    
+
+}
+.middle_div{
+    width: 500px;
+    float: left;
+    
+}
+.person_intro{
+    width: 550px;
+    float: right;
+    margin-top: 150px;
+    
+}
+.person_intro h1{
+    font-size: 50px;
+    font-family: arial;
+    
+}
+.person_intro p{
+    font-size: 20px;
+    line-height: 30px;
+   
+}
+.nicher{
+    margin-bottom: 20px;
+}
+.check_icon{
+    margin-top: 10px;
+    font-size: 20px;
+    
+}
+.fa-check{
+    font-size: 15px;
+    color: green;
+    margin-right: 10px;
+}
+#middle_work{
+    width: 1170px;
+    overflow: hidden;
+    margin: auto;
+    margin-top: 150px;
+}
+.lekha h1{
+    text-align: center;
+    font-size: 35px;
+    margin: auto;
+    font-family: arial black;
+}
+.icon_pic{
+    width: 280px;
+    text-align: center;
+    display: inline-block;
+    margin-top: 80px;
+    
+}
+.icon_pic h2{
+    font-size: 30px;
+    font-family: arial;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.icon_pic h3{
+    font-size: 30px;
+    color: rgb(136, 136, 132);
+}
+.watch_time{
+    background-image: url(watch.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 1170px;
+    height: 300px;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    background-color: #00000070;
+    background-blend-mode: overlay;
+
+}
+.watch_time ::after{
+    background: orangered;
+    opacity: 0.3;
+}
+
+.watch_lekha h3{
+    font-size: 30px;
+    font-family: arial;
+    color: white;
+    margin-top: 10px;
+    
+}
+.watch_lekha{
+    padding: 60px;
+}
+.middle_button{
+    padding: 15px 20px;
+    background: white;
+    color: orangered;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    font-family: arial black;
+    margin-top: 10px;
+}
+.black_div{
+   
+    background: #000;
+    color: white;
+    height: 580px;
+    overflow: hidden;
+}
+#width_agaro{
+    width: 1170px;
+    margin: auto;
+}
+.black_left{
+    width: 500px;
+    margin-top: 150px;
+}
+.black_left h1{
+    font-size: 50px;
+    margin-bottom: 15px;
+    font-family: arial;
+    
+}
+.black_left p{
+    font-size: 18px;
+    line-height: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 20px;
+
+}
+.same_div{
+    font-size: 18px;
+    line-height: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.same_image{
+    display: inline-block;
+    margin: 8px 5px 8px 0px;
+    
+}
+.right_sight{
+    float: right;
+    margin-top: -300px;
+    
+}
+.right_sight h3{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 20px;
+}
+.bck{
+    background: black;
+    color: white;
+    padding: 15px 40px 10px 10px;
+    border: 1px solid white;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+.sight_btn{
+    background: white;
+    padding: 20px 35px;
+    color: orangered;
+    font-family: arial;
+    font-size: 20px;
+    border-radius: 10px;
+}
+.service_block_tw{
+    background-image: url(banner2.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 700px;
+    overflow: hidden;
+}
+.service_block_thre{
+    background-image: url(banner3.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 700px;
+    overflow: hidden;
+}
+.services{
+    width: 500px;
+    height: 700px;
+    text-align: center;
+    margin: auto;
+    float: right;
+    margin-right: 200px;
+    margin-top: 200px;
+    overflow: hidden;
+}
+.services h1{
+    font-size: 60px;
+    font-family: arial black;
+    text-align: right;
+    line-height: 60px;
+    margin-bottom: 30px;
+    color: white;
+}
+.services p{
+    font-size: 20px;
+    text-align: right;
+    margin-bottom: 30px;
+    color: white;
+    
+
+}
+.contact_buttons{
+    padding: 20px 20px;
+    background: white;
+    color: rgb(0, 145, 255);
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    font-family: arial black;
+    float: right;
+
+}
